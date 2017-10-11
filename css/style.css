@@ -1,0 +1,37 @@
+body {
+    color: #FFF;
+}
+.main-area {
+    margin-top: 50px;
+}
+.agenda {
+    background-color: #1a5276;
+    border-radius: 2px;
+    border: 1px solid black; 
+    padding: 50px;
+    text-align: center;
+    height: 600px;
+}
+.page1, .page2 {
+    padding:0;
+}
+.contatos {
+    /*color: #FFF;*/
+}
+
+.borderless .controls  td {
+    border: none !important;
+    padding: 0px;
+    padding-bottom: .75rem;
+}
+.controls img {
+    width: 25px;
+    float: right;
+    margin-left: 10px;
+}
+.space {
+    height: 20px;
+}
+.btn-foward img{
+    transform: rotateY(180deg);
+}
